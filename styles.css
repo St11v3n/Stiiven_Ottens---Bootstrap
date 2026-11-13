@@ -1,0 +1,22 @@
+body {
+    background-color:#1c1c1e;
+    color:white;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+
+.nav-link {
+    color:white;
+    
+}
+
+.nav-link:hover {
+    color: darkorange
+}
+
+
+
